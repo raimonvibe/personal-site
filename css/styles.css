@@ -167,3 +167,24 @@ hr {
   background-image: linear-gradient(to bottom, #3cfcec, #34d9c3);
   text-decoration: none;
 }
+
+@media (max-width: 900px){
+  h1 {
+    font-size: 5.375rem;
+  }
+  h2 {
+    font-size: 3.5rem;
+  }
+  h3 {
+    font-size: 3rem;
+  }
+  p {
+    font-size: 2.5rem;
+  }
+  .top-cloud {
+    position: static;
+  }
+  .bottom-cloud {
+    position: static;
+  }
+}
