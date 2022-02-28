@@ -187,4 +187,11 @@ hr {
   .bottom-cloud {
     position: static;
   }
+  .Modelling {
+    float: none;
+    margin: auto;
+  }
+  .Coding {
+    float: none;
+  }
 }
