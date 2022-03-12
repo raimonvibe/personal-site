@@ -26,10 +26,6 @@ h3 {
   font-family: 'Noto Sans', sans-serif;
 }
 
-.function {
-  margin-top: 25px;
-}
-
 p {
   font-family: 'Noto Sans', sans-serif;
   line-height: 2;
@@ -46,6 +42,10 @@ hr {
 .top-container {
   padding-top: 100px;
   position: relative;
+}
+
+.function {
+  margin-top: 25px;
 }
 
 .skill-row {
@@ -194,4 +194,24 @@ hr {
   .Coding {
     float: none;
   }
+}
+
+/* Navigation Bar */
+
+.nav-item {
+  padding: 0 18px;
+  text-align: right;
+  margin: 5% 5% 5%
+}
+
+.nav-link {
+  color: #35858B;
+  font-size: 1.2rem;
+  font-family: 'Noto Sans', sans-serif;
+  text-decoration: none;
+  margin: 10px 10px;
+}
+
+.nav-link:hover {
+  color: #3cfcec;
 }
