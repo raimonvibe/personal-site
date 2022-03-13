@@ -57,7 +57,9 @@ hr {
 .middle-container {
   margin: 100px 0;
 }
-.bottom-container {}
+.mountain {
+  width: 100%;
+}
 
 .top-cloud {
   position: absolute;
