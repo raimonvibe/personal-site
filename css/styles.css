@@ -124,19 +124,58 @@ hr {
 }
 
 .Cults {
-  color: #086E7D;
-  text-decoration: none;
+  background: #34c0d9;
+  background-image: -webkit-linear-gradient(top, #34c0d9, #17818f);
+  background-image: -moz-linear-gradient(top, #34c0d9, #17818f);
+  background-image: -ms-linear-gradient(top, #34c0d9, #17818f);
+  background-image: -o-linear-gradient(top, #34c0d9, #17818f);
+  background-image: linear-gradient(to bottom, #34c0d9, #17818f);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Noto Sans', sans-serif;
+  color: #104145;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;: none;
+  margin-left: 20px;
+
 }
 .Cults:hover {
-  color: #3cfcec;
+  background: #3cfcec;
+  background-image: -webkit-linear-gradient(top, #3cfcec, #34d9c3);
+  background-image: -moz-linear-gradient(top, #3cfcec, #34d9c3);
+  background-image: -ms-linear-gradient(top, #3cfcec, #34d9c3);
+  background-image: -o-linear-gradient(top, #3cfcec, #34d9c3);
+  background-image: linear-gradient(to bottom, #3cfcec, #34d9c3);
+  text-decoration: none;
 }
 
 .Fiverr {
-  color: #086E7D;
+  background: #34c0d9;
+  background-image: -webkit-linear-gradient(top, #34c0d9, #17818f);
+  background-image: -moz-linear-gradient(top, #34c0d9, #17818f);
+  background-image: -ms-linear-gradient(top, #34c0d9, #17818f);
+  background-image: -o-linear-gradient(top, #34c0d9, #17818f);
+  background-image: linear-gradient(to bottom, #34c0d9, #17818f);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Noto Sans', sans-serif;
+  color: #104145;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
   text-decoration: none;
+  margin-left: 20px;
 }
 .Fiverr:hover {
-  color: #3cfcec;
+  background: #3cfcec;
+  background-image: -webkit-linear-gradient(top, #3cfcec, #34d9c3);
+  background-image: -moz-linear-gradient(top, #3cfcec, #34d9c3);
+  background-image: -ms-linear-gradient(top, #3cfcec, #34d9c3);
+  background-image: -o-linear-gradient(top, #3cfcec, #34d9c3);
+  background-image: linear-gradient(to bottom, #3cfcec, #34d9c3);
+  text-decoration: none;
 }
 
 /* Contact */
@@ -222,3 +261,4 @@ hr {
     float: none;
   }
 }
+
