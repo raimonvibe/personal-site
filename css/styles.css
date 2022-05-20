@@ -117,6 +117,12 @@ hr {
   text-align: left;
 }
 
+.skill-row-2 {
+  width: 65%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+}
+
 .Modelling {
   border-radius: 50%;
   float: left;
