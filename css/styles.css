@@ -105,13 +105,14 @@ hr {
 }
 
 .middle-container {
-  margin: 100px 50px;
+  margin: 100px 150px;
+  width: 75%;
 }
 
 /* Skills */
 
 .skill-row {
-  width: 60%;
+  width: 65%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
@@ -119,36 +120,37 @@ hr {
 .Modelling {
   border-radius: 50%;
   float: left;
-  margin: 0 auto 100px auto;
+  margin-top: 100px;
   margin-right: 30px;
   width: 150px;
   height: 150px;
   object-fit: cover;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-
-}
-
-.Blogging {
-  border-radius: 50%;
-  float: left;
-  margin: 0 auto 100px auto;
-  margin-right: 30px;
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-
 }
 
 .Coding {
   border-radius: 50%;
   float: right;
   margin-left: 30px;
-  margin-top: 40px;
+  margin-top: 90px;
   width: 150px;
   height: 150px;
-
+  object-fit: cover;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
 }
+
+.Blogging {
+  border-radius: 50%;
+  float: left;
+  margin-top: 90px;
+  margin-right: 30px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+
 
 .Cults {
   background: #34c0d9;
