@@ -1,3 +1,6 @@
+html {
+scroll-behavior: smooth;
+}
 body {
   background: linear-gradient(to bottom right, #EEEEEE, #1C658C);
   color: #40514E;
