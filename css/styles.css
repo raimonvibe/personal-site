@@ -108,8 +108,8 @@ hr {
 }
 
 .middle-container {
-  margin: auto;
-  width: 65%;
+  margin: 100px 150px;
+  width: 75%;
 }
 
 /* Skills */
@@ -206,6 +206,34 @@ hr {
 }
 
 .Fiverr:hover, .Fiverr:focus {
+  background: #3cfc73;
+  background-image: -webkit-linear-gradient(top, #97DBAE, #aaebab);
+  background-image: -moz-linear-gradient(top, #97DBAE, #aaebab);
+  background-image: -ms-linear-gradient(top, #97DBAE, #aaebab);
+  background-image: -o-linear-gradient(top, #97DBAE, #aaebab);
+  background-image: linear-gradient(to bottom, #97DBAE, #aaebab);
+  text-decoration: none;
+}
+
+.UpWork {
+  background: #99cff0;
+  background-image: -webkit-linear-gradient(top, #99cff0, #398AB9);
+  background-image: -moz-linear-gradient(top, #99cff0, #398AB9);
+  background-image: -ms-linear-gradient(top, #99cff0, #398AB9);
+  background-image: -o-linear-gradient(top, #99cff0, #398AB9);
+  background-image: linear-gradient(to bottom, #99cff0, #398AB9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Noto Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.UpWork:hover, .Fiverr:focus {
   background: #3cfc73;
   background-image: -webkit-linear-gradient(top, #97DBAE, #aaebab);
   background-image: -moz-linear-gradient(top, #97DBAE, #aaebab);
