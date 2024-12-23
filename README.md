@@ -25,13 +25,13 @@ I'm Raimon, a passionate 3D artist and software developer. I combine creativity 
 You can find my work and services on various platforms:
 
 - 🎨 [3D Models on Cults3D](https://cults3d.com/en/users/raimonvibe/3d-models) - Browse my collection of 3D models
-- ✍️ [Medium Blog](https://medium.com/@raimoncoding) - Articles about coding bootcamps and 3D printing
+- ✍️ [Medium Blog](https://medium.com/@raimonvibe) - Articles about coding bootcamps and 3D printing
 
 ## Contact
 
 For business inquiries or feedback, feel free to reach out:
-- 📧 Email: [info@raimoncoding.nl](mailto:info@raimoncoding.nl)
+- 📧 Email: [info@raimoncoding.nl](mailto:info@raimonvibe.com)
 
 ## License
 
-© 2024 www.raimoncoding.com
+© 2024 www.raimonvibe.com
