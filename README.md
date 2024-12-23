@@ -25,8 +25,6 @@ I'm Raimon, a passionate 3D artist and software developer. I combine creativity 
 You can find my work and services on various platforms:
 
 - 🎨 [3D Models on Cults3D](https://cults3d.com/en/users/raimonvibe/3d-models) - Browse my collection of 3D models
-- 💻 [Fiverr Profile](https://nl.fiverr.com/raimoncoding/) - Freelance services
-- 🚀 [UpWork Profile](https://www.upwork.com/freelancers/~01db073e93a) - Professional services
 - ✍️ [Medium Blog](https://medium.com/@raimoncoding) - Articles about coding bootcamps and 3D printing
 
 ## Contact
