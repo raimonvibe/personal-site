@@ -30,7 +30,7 @@ You can find my work and services on various platforms:
 ## Contact
 
 For business inquiries or feedback, feel free to reach out:
-- 📧 Email: [info@raimoncoding.nl](mailto:info@raimonvibe.com)
+- 📧 Email: [info@raimonvibe.com](mailto:info@raimonvibe.com)
 
 ## License
 
