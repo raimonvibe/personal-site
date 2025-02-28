@@ -1,19 +1,3 @@
-## 🏥 ECG Monitoring in Medical Devices: Best Libraries for Every Use Case
-
-Ever wondered how hospital devices render heartbeats in real time? Here's a quick guide to the best libraries for ECG signal processing!
-
-| Use Case | Best Library | 🔎 Why? |
-|----------|------------|-------|
-| 📡 **Real-time ECG rendering** | Qt (C++), OpenGL | Low-latency, optimized for medical displays |
-| 📊 **Signal processing (Noise removal)** | SciPy, NumPy (Python) | Filters noise, smooths ECG data |
-| 🤖 **Machine learning for heart diseases** | TensorFlow (Python), MATLAB | AI-based arrhythmia detection |
-| 🌍 **Web-based ECG streaming** | D3.js, Chart.js (JavaScript) | Used for IoT remote monitoring |
-| 🖥 **Windows-based hospital UI** | WPF (C#) | Integrated into hospital software |
-
-🎨 *Here’s how a heartbeat monitor might look in Bikini Bottom:*  
-![SpongeBob ECG Monitor](your_image_link_here)
-
-
 
 
 # Personal Site
